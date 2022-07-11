@@ -8,10 +8,10 @@ export function Event (){
   return(
     <div>
       <Header/>
-      {/* <Lesson/>
+      <Lesson/>
       <Sidebar/>
       <Video/>
-      <Footer/> */}
+      <Footer/>
     </div>
   )
 }
